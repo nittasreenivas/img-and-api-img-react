@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.vasu {
+  border: 3px solid black;
+  width: 305px;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.prod {
+  border: 3px solid red;
+  width: 300px;
+  padding: 10px;
+  margin: 10px auto;
+}
